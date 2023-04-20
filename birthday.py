@@ -5,7 +5,8 @@ columns=['Date', 'Name', 'Surname']
 data = [
 ['06-29', 'Oleg', 'Gnedov'],
 ['10-10', 'Egor', 'Celousov'],
-['10-19', 'Nariman', 'Nebiev']
+['10-19', 'Nariman', 'Nebiev'],
+['04-25','Test','User']
 ]
 
 df = pd.DataFrame(data, columns=columns)
