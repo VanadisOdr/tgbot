@@ -17,4 +17,4 @@ data = [
 ]
 
 df = pd.DataFrame(data, columns=columns)
-df.to_csv(r'C:/Users/GnedovOO/PycharmProjects/tgbot/birthdays.csv')
+df.to_csv('C:/Users/olegg/PycharmProjects/tgbot/birthdays.csv')
